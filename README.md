@@ -20,3 +20,4 @@ dotnet publish -c Release -r win-x64 --self-contained true /p:PublishSingleFile=
 * Double left click the binary and it should run in the current directory
 * If you have macros or file explorer you can try to run it that way as well
 * Will save a pem file (base64 cert) and if it is able to, it will first attempt to extract the private key, if not possible it will attempt to resign the cert with the password given (as long as it matches, if you know the pin)
+<img width="794" height="460" alt="image" src="https://github.com/user-attachments/assets/6220fef6-d52a-4f88-9d47-bfd1d16df58f" />
