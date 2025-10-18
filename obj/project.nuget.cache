@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jSVaUQCGjVI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zumi\\SmartCardExporter\\SmartCardExporter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zumi\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.10\\microsoft.net.illink.tasks.9.0.10.nupkg.sha512",
+    "C:\\Users\\zumi\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\9.0.10\\microsoft.netcore.app.runtime.win-x64.9.0.10.nupkg.sha512",
+    "C:\\Users\\zumi\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\9.0.10\\microsoft.windowsdesktop.app.runtime.win-x64.9.0.10.nupkg.sha512",
+    "C:\\Users\\zumi\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\9.0.10\\microsoft.aspnetcore.app.runtime.win-x64.9.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

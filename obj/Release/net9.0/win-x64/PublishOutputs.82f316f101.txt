@@ -1,0 +1,2 @@
+C:\Users\zumi\SmartCardExporter\publish\SmartCardExporter.pdb
+C:\Users\zumi\SmartCardExporter\publish\SmartCardExporter.exe
